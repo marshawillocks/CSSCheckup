@@ -1,0 +1,23 @@
+/* for testing */
+/*body {
+    background-color: blue;
+}*/
+
+/* rule-set #1 */
+#number-one{
+    color:red
+}
+/* rule-set #2*/
+.first-class{
+    color: green;
+}
+
+
+/* rule-set #4 */
+.second-class{font-size: 24 px
+}
+
+/* rule-set #5*/
+#number-three
+    {color: orange
+}

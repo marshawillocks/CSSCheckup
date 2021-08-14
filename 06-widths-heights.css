@@ -1,0 +1,39 @@
+.wrappers{
+    margin: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+.example1{
+    height: 150px;
+    width: 50%;
+    background-color: cornflowerblue;
+}
+
+.example2{
+    width: 400px;
+    height: 400px;
+}
+/*7*/
+.border-color li:nth-child(1){
+    margin: 5px;
+    border-style: solid;
+    border-color: blue;
+}
+.border-color li:nth-child(2){
+    margin: 5px;
+    border-style: solid;
+    border-color: #eee;
+}
+.border-color li:nth-child(3){
+    margin: 5px;
+    border-style: solid;
+    border-color: rgb(100,0,100);
+}
+.border-color li:nth-child(4){
+    margin: 5px;
+    border-style: solid;
+    border-color: transparent;
+}

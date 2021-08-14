@@ -1,0 +1,24 @@
+.wrapper{
+    margin: 5px;
+}
+
+/*3*/
+h1{
+    text-align: center;
+}
+
+/*4 this sets the background color of the entire body*/
+.background1{
+    background-color: lightblue;
+    background-image: linear-gradient(to right, green, yellow);
+}
+
+/*5*/
+.background2{
+    background-image:url("../Assets/upfeathers.png");
+}
+
+/*7*/
+table, th, td{
+    border: 1px solid black;
+}
